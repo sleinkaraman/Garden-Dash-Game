@@ -1,6 +1,6 @@
-# Garden Dash
+## Garden Dash
 
-Garden Dash, Python ve Pygame Zero kütüphanesi kullanılarak geliştirilmiş eğlenceli bir 2D oyundur. Oyuncu, bir bahçede meyveleri toplarken köpeklerden kaçmaya çalışır. Toplanan her meyve ile puan kazanırken, köpeklere yakalanırsanız oyun sona erer. 
+### Garden Dash, Python ve Pygame Zero kütüphanesi kullanılarak geliştirilmiş eğlenceli bir 2D oyundur. Oyuncu, bir bahçede meyveleri toplarken köpeklerden kaçmaya çalışır. Toplanan her meyve ile puan kazanırken, köpeklere yakalanırsanız oyun sona erer. 
 ---
 
 ## Kurulum
